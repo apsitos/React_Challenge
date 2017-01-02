@@ -8202,7 +8202,7 @@
 
 	var _reactDom2 = _interopRequireDefault(_reactDom);
 
-	var _Main = __webpack_require__(475);
+	var _Main = __webpack_require__(!(function webpackMissingModule() { var e = new Error("Cannot find module \"./components/Main\""); e.code = 'MODULE_NOT_FOUND'; throw e; }()));
 
 	var _Main2 = _interopRequireDefault(_Main);
 
@@ -29436,18 +29436,6 @@
 
 	module.exports = ReactDOMInvalidARIAHook;
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(294)))
-
-/***/ },
-/* 475 */
-/***/ function(module, exports, __webpack_require__) {
-
-	'use strict';
-
-	var _react = __webpack_require__(299);
-
-	var _react2 = _interopRequireDefault(_react);
-
-	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 /***/ }
 /******/ ]);
